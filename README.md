@@ -1,5 +1,7 @@
 # Zigbee to MQTT шлюз для корпуса D2MG на дин рейку.
 
+<img src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%92%D0%B8%D0%B4%20%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8.png" data-canonical-src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%92%D0%B8%D0%B4%20%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8.png" width="400"/>
+
 Плата тестовая, в железе не проверенная!!!
 
 Версия шлюза zigbee to mqtt для корпуса D2MG на дин рейку.
