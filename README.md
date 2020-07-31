@@ -3,8 +3,8 @@
 <img src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%92%D0%B8%D0%B4%20%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8.png" data-canonical-src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%92%D0%B8%D0%B4%20%D1%81%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8.png" height="500"/>  <img src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%2C%20%D0%B2%D0%B8%D0%B4%20%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.png" data-canonical-src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%2C%20%D0%B2%D0%B8%D0%B4%20%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83.png" height="500"/>  <img src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%2C%20%D0%B2%D0%B8%D0%B4%20%D1%81%D0%BD%D0%B8%D0%B7%D1%83.png" data-canonical-src="https://github.com/badenbaden/sls-gateway-din-rail/blob/master/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0%2C%20%D0%B2%D0%B8%D0%B4%20%D1%81%D0%BD%D0%B8%D0%B7%D1%83.png" height="500"/>
 
 
-Платы получены, собраны и тестируются.
-~~Плата тестовая, в железе не проверенная!!! (Платы изготавливаются)~~
+Платы получены, собраны и протестированы.
+
 
 Версия шлюза zigbee to mqtt для корпуса [D2MG](http://www.gainta.com/d2mg.html) на дин рейку. 
 Плату можно использовать как в корпусе на дин рейку, так и корпусе, напечатанном на 3Д принтере. Также есть возможность использования в качестве USB zigbee стика. 
